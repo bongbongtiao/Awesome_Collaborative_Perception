@@ -42,6 +42,11 @@ Note: {Related} denotes that it is not a pure collaborative perception paper but
   - Dataset: V2X-Sim
   - Task: Segmentation
   - Input: Point Cloud
+- **V2X-AHD** (V2X-AHD:Vehicle-to-Everything Cooperation Perception via Asymmetric Heterogenous Distillation Network) [[paper](https://arxiv.org/pdf/2310.06603)] [[code([https://github.com/tjy1423317192/AP2VP](https://github.com/feeling0414-lab/V2X-FKD))]
+  - Mode: Intermediate Collaboration
+  - Dataset: V2X-Set
+  - Task: Detection
+  - Input: Point Cloud
 - **CMP** (CMP: Cooperative Motion Prediction with Multi-Agent Communication) [[paper](https://arxiv.org/abs/2403.17916)] [~~code~~]
   - Mode: Intermediate Collaboration
   - Dataset: OPV2V
